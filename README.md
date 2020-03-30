@@ -14,8 +14,10 @@ ___
 Compendio de los datos oficiales sobre casos positivos a *SARS-COV-2* (**COVID-19**), emitidos por la Secretaría de Salud (**SSA**) del Gobierno de México. Los datos son obtenidos a partir del Comunicado Técnico diario, publicado por la Dirección General de Epidemiología, de la SSA. 
 
 **Nota :**  La base de datos cuenta con registros a partir del 28 de Febrero del 2020, fecha en que se reportaron los primeros casos positivos en México.
+
 <br>
 Con mucho gusto atenderé cualquier duda, comentario o contribución, a través de mi correo electrónico.
+
 Contacto: lgco.canales@gmail.com
 
 ¡Por una cultura de **#DatosAbiertos**!
@@ -31,7 +33,7 @@ Compendium of official data on positive cases for *SARS-COV-2* (**COVID-19**), p
 **Note:** The database has records since February 28, 2020, date when the first positive cases were reported in Mexico.
 
 <br>
-If you have any questions, comments or would like to contribute, please feel free to contact me.
+If you have any questions, comments or contributions, please feel free to contact me.
 
 Contact: lgco.canales@gmail.com
 
