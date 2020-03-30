@@ -2,11 +2,14 @@
 
 # Base de datos de casos positivos a COVID-19 en México / Database of positive cases of COVID-19 in Mexico.
 
-```Última actualización/Last update: 2020-03-30 T 00:25:00-06:00```
+```Última actualización/Last update: 2020-03-30 T 04:00:00-06:00```
 
 <br>
 
 ___
+
+![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/acumulativos_29-03-2020.png)
+
 
 ## Español
 
