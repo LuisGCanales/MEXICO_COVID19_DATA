@@ -8,7 +8,7 @@
 
 ___
 
-![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/acumulativos_29-03-2020.png)
+![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/acumulativo_29_03_2020.png)
 
 
 ## Español
