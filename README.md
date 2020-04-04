@@ -17,7 +17,7 @@ ___
 ### Descripción
 Compendio de los datos oficiales sobre casos positivos a *SARS-COV-2* (**COVID-19**), emitidos por la Secretaría de Salud (**SSA**) del Gobierno de México. Los datos son obtenidos a partir del Comunicado Técnico diario, publicado por la Dirección General de Epidemiología, de la SSA. 
 
-• El dataset se encuentra para descargar en formato ``.CSV``, a partir del 4 de Abril del 2020 se encontrará también los formato ``.ODS`` y ``.JSON``.
+• El dataset se encuentra para descargar en formato ``.CSV`` bajo el nombre **MEXICO_COVID19_DATA_2020.04.03.csv**. A partir del 4 de Abril del 2020 se encontrará también en los formatos ``.ODS`` y ``.JSON``.
 
 **Nota :**  La base de datos cuenta con registros a partir del 28 de Febrero del 2020, fecha en que se reportaron los primeros casos positivos en México.
 
