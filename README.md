@@ -17,7 +17,10 @@ ___
 ### Descripción
 Compendio de los datos oficiales sobre casos positivos a *SARS-COV-2* (**COVID-19**), emitidos por la Secretaría de Salud (**SSA**) del Gobierno de México. Los datos son obtenidos a partir del Comunicado Técnico diario, publicado por la Dirección General de Epidemiología, de la SSA. 
 
+• El dataset se encuentra para descargar en formato ``.CSV``, a partir del 4 de Abril del 2020 se encontrará también los formato ``.ODS`` y ``.JSON``.
+
 **Nota :**  La base de datos cuenta con registros a partir del 28 de Febrero del 2020, fecha en que se reportaron los primeros casos positivos en México.
+
 <br>
 
 ### Glosario de variables
@@ -40,6 +43,12 @@ Compendio de los datos oficiales sobre casos positivos a *SARS-COV-2* (**COVID-1
 • ``Llegada_a_Mex``:  Para casos importados indica la fecha de ingreso a México inmediata anterior a ser diagnosticados como positivos. Para casos locales ésta variable originalmente permanecía en blanco, sin embargo, a partir del informe emitido el 22 de Marzo del 2020 para algunos casos locales empezaron a reportar una fecha en ella, sin definir el significado de la misma. Estoy en proceso de investigación para esclarecer éste detalle, por lo pronto aconsejo no se tome en cuenta dicha fecha en casos locales.
 
 • ``Diagnostico``: Fecha de la primera aparición en las *Tablas de casos positivos* del caso en cuestión, que corresponde con la fecha en que el caso se considera oficialmente como *positivo*.
+
+<br>
+
+**Nota:** A partir del 4 de Abril del 2020 estarán disponibles también los archivos origniales con los que se construyó la base de datos.
+
+**Nota:** A partir del 6 de Abril del 2020 se encontrarán en otro repositorio de ésta misma cuenta todos los Scripts involucrados en la búsqueda, y procesamiento de los archivos originales, así como los dedicados a la construccción de la base de datos.
 
 <br>
 
