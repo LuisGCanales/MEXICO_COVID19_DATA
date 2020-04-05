@@ -28,9 +28,3 @@ Con mucho gusto atenderé cualquier duda, comentario o contribución, a través 
 Contacto: lgco.canales@gmail.com
 
 ¡Por una cultura de **#DatosAbiertos**!
-<<<<<<< HEAD:Archivos_originales/README.md
-____
-
-
-=======
->>>>>>> 824060ef73ce8798f78ef4aaeef35dc098be90ad:Archivos_originales/README.md
