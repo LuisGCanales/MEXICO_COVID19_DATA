@@ -3,13 +3,13 @@
 
 # Base de datos de casos positivos a COVID-19 en México / Database of positive cases of COVID-19 in Mexico.
 
-```Última actualización/Last update: 2020-04-03 T 20:30:00-06:00```
+```Última actualización/Last update: 2020-04-04 T 21:15:00-06:00```
 
 <br>
 
 ___
 
-![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/acumulativo_03_04_2020.png)
+![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/acumulativo_04_04_2020.png)
 
 
 ## Español
@@ -17,7 +17,7 @@ ___
 ### Descripción
 Compendio de los datos oficiales sobre casos positivos a *SARS-COV-2* (**COVID-19**), emitidos por la Secretaría de Salud (**SSA**) del Gobierno de México. Los datos son obtenidos a partir del Comunicado Técnico diario, publicado por la Dirección General de Epidemiología, de la SSA. 
 
-• El dataset se encuentra para descargar en formato ``.CSV`` bajo el nombre **MEXICO_COVID19_DATA_2020.04.03.csv**. A partir del 4 de Abril del 2020 se encontrará también en los formatos ``.ODS`` y ``.JSON``.
+• El dataset se encuentra para descargar en los formatos ``.CSV``,  ``.ODS`` y ``.JSON``.
 
 **Nota :**  La base de datos cuenta con registros a partir del 28 de Febrero del 2020, fecha en que se reportaron los primeros casos positivos en México.
 
