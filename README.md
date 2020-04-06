@@ -4,13 +4,14 @@
 
 # Base de datos de casos positivos a COVID-19 en México / Database of positive cases of COVID-19 in Mexico.
 
-```Última actualización/Last update: 2020-04-04 T 23:00:00-06:00```
+```Última actualización/Last update: 2020-04-05 T 20:00:00-06:00```
 
 <br>
 
 ___
 
-![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/acumulativo_04_04_2020.png)
+![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/diferencia_dias_05_04_2020.png)
+
 
 
 ## Español
@@ -47,7 +48,8 @@ Compendio de los datos oficiales sobre casos positivos a *SARS-COV-2* (**COVID-1
 
 <br>
 
-![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/por_dia_04_04_2020.png)
+![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/acumulativo_05_04_2020.png)
+
 
 ## Archivos originales
 
@@ -60,8 +62,10 @@ Las *Tablas de casos positivos*, junto con los *Comunicados Técnicos Diarios* y
 
 Los registros originales para este par de días se encuentran en formato **.HTML**, debido a que fueron obtenidos a través de la API de *Google Caché*, y únicamente los tenían almacenados en ese formato.
 
-<br>
 
+![image](https://github.com/LuisGCanales/MEXICO_COVID19_DATA/blob/master/por_dia_05_04_2020.png)
+
+<br>
 
 Con mucho gusto atenderé cualquier duda, comentario o contribución, a través de mi correo electrónico.
 
