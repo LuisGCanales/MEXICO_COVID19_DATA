@@ -4,7 +4,7 @@
 
 # Base de datos de casos positivos a COVID-19 en México / Database of positive cases of COVID-19 in Mexico.
 
-```Última actualización/Last update: 2020-04-05 T 20:00:00-06:00```
+```Última actualización/Last update: 2020-04-05 T 20:20:00-06:00```
 
 <br>
 
