@@ -1,12 +1,18 @@
-
-
-
-
-# Base de datos de casos positivos a COVID-19 en México / Database of positive cases of COVID-19 in Mexico.
+# (DESCONTINUADO / DISCONTINUED) Base de datos de casos positivos a COVID-19 en México / Database of positive cases of COVID-19 in Mexico.
 
 ```Última actualización/Last update: 2020-04-05 T 20:20:00-06:00```
 
 <br>
+
+
+## IMPORTANTE
+
+Éste repositorio dejó de ser actualizado y será archivado debido a que a partir del 6 de Abril del 2020 se presentaron enormes inconsistencias en los reportes emitidos por la Secretaria de Salud del Gobierno de México que imposibilitaron darle continuidad de manera fiable a los datos oficiales. Si deseas consultar datos oficiales sobre el desarrollo de la pandemia por SARS-COV-2 en México puedes hacerlo en la siguiente liga: [Datos Abiertos SSA](https://www.gob.mx/salud/documentos/datos-abiertos-152127). 
+
+
+## IMPORTANT
+
+This repository was no longer updated and will be archived because as of April 6, 2020, major inconsistencies were verified in the reports issued by the Secretariat of Health of the Government of Mexico that made it impossible to reliably continue official data. If you wish to consult official data on the development of the SARS-COV-2 pandemic in Mexico, you can do so in the following link: [Open Data, Secretariat of Health (Mex)](https://www.gob.mx/salud/documentos/datos-abierto-152127).
 
 ___
 
